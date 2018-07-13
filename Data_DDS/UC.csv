@@ -1,0 +1,501 @@
+ucid,ucpactor,uctitle,ucdesc
+ucid1,Patient,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid2,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid3,ICE app,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid4,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid5,Clinician or APP,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid6,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid7,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid8,Patient,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid9,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid10,ICE app,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid11,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid12,Clinician or APP,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid13,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid14,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid15,Patient,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid16,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid17,ICE app,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid18,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid19,Clinician or APP,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid20,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid21,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid22,Patient,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid23,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid24,ICE app,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid25,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid26,Clinician or APP,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid27,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid28,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid29,Patient,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid30,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid31,ICE app,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid32,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid33,Clinician or APP,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid34,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid35,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid36,Patient,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid37,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid38,ICE app,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid39,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid40,Clinician or APP,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid41,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid42,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid43,Patient,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid44,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid45,ICE app,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid46,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid47,Clinician or APP,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid48,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid49,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid50,Patient,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid51,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid52,ICE app,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid53,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid54,Clinician or APP,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid55,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid56,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid57,Patient,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid58,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid59,ICE app,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid60,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid61,Clinician or APP,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid62,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid63,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid64,Patient,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid65,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid66,ICE app,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid67,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid68,Clinician or APP,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid69,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid70,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid71,Patient,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid72,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid73,ICE app,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid74,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid75,Clinician or APP,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid76,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid77,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid78,Patient,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid79,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid80,ICE app,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid81,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid82,Clinician or APP,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid83,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid84,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid85,Patient,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid86,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid87,ICE app,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid88,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid89,Clinician or APP,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid90,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid91,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid92,Patient,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid93,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid94,ICE app,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid95,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid96,Clinician or APP,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid97,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid98,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid99,Patient,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid100,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid101,ICE app,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid102,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid103,Clinician or APP,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid104,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid105,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid106,Patient,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid107,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid108,ICE app,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid109,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid110,Clinician or APP,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid111,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid112,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid113,Patient,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid114,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid115,ICE app,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid116,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid117,Clinician or APP,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid118,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid119,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid120,Patient,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid121,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid122,ICE app,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid123,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid124,Clinician or APP,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid125,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid126,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid127,Patient,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid128,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid129,ICE app,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid130,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid131,Clinician or APP,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid132,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid133,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid134,Patient,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid135,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid136,ICE app,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid137,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid138,Clinician or APP,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid139,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid140,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid141,Patient,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid142,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid143,ICE app,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid144,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid145,Clinician or APP,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid146,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid147,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid148,Patient,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid149,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid150,ICE app,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid151,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid152,Clinician or APP,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid153,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid154,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid155,Patient,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid156,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid157,ICE app,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid158,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid159,Clinician or APP,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid160,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid161,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid162,Patient,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid163,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid164,ICE app,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid165,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid166,Clinician or APP,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid167,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid168,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid169,Patient,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid170,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid171,ICE app,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid172,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid173,Clinician or APP,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid174,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid175,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid176,Patient,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid177,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid178,ICE app,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid179,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid180,Clinician or APP,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid181,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid182,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid183,Patient,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid184,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid185,ICE app,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid186,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid187,Clinician or APP,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid188,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid189,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid190,Patient,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid191,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid192,ICE app,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid193,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid194,Clinician or APP,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid195,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid196,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid197,Patient,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid198,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid199,ICE app,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid200,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid201,Clinician or APP,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid202,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid203,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid204,Patient,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid205,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid206,ICE app,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid207,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid208,Clinician or APP,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid209,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid210,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid211,Patient,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid212,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid213,ICE app,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid214,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid215,Clinician or APP,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid216,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid217,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid218,Patient,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid219,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid220,ICE app,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid221,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid222,Clinician or APP,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid223,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid224,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid225,Patient,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid226,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid227,ICE app,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid228,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid229,Clinician or APP,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid230,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid231,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid232,Patient,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid233,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid234,ICE app,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid235,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid236,Clinician or APP,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid237,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid238,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid239,Patient,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid240,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid241,ICE app,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid242,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid243,Clinician or APP,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid244,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid245,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid246,Patient,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid247,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid248,ICE app,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid249,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid250,Clinician or APP,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid251,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid252,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid253,Patient,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid254,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid255,ICE app,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid256,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid257,Clinician or APP,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid258,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid259,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid260,Patient,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid261,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid262,ICE app,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid263,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid264,Clinician or APP,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid265,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid266,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid267,Patient,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid268,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid269,ICE app,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid270,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid271,Clinician or APP,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid272,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid273,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid274,Patient,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid275,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid276,ICE app,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid277,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid278,Clinician or APP,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid279,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid280,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid281,Patient,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid282,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid283,ICE app,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid284,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid285,Clinician or APP,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid286,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid287,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid288,Patient,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid289,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid290,ICE app,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid291,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid292,Clinician or APP,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid293,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid294,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid295,Patient,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid296,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid297,ICE app,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid298,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid299,Clinician or APP,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid300,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid301,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid302,Patient,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid303,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid304,ICE app,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid305,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid306,Clinician or APP,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid307,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid308,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid309,Patient,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid310,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid311,ICE app,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid312,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid313,Clinician or APP,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid314,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid315,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid316,Patient,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid317,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid318,ICE app,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid319,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid320,Clinician or APP,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid321,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid322,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid323,Patient,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid324,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid325,ICE app,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid326,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid327,Clinician or APP,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid328,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid329,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid330,Patient,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid331,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid332,ICE app,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid333,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid334,Clinician or APP,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid335,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid336,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid337,Patient,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid338,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid339,ICE app,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid340,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid341,Clinician or APP,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid342,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid343,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid344,Patient,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid345,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid346,ICE app,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid347,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid348,Clinician or APP,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid349,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid350,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid351,Patient,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid352,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid353,ICE app,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid354,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid355,Clinician or APP,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid356,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid357,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid358,Patient,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid359,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid360,ICE app,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid361,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid362,Clinician or APP,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid363,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid364,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid365,Patient,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid366,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid367,ICE app,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid368,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid369,Clinician or APP,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid370,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid371,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid372,Patient,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid373,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid374,ICE app,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid375,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid376,Clinician or APP,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid377,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid378,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid379,Patient,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid380,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid381,ICE app,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid382,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid383,Clinician or APP,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid384,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid385,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid386,Patient,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid387,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid388,ICE app,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid389,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid390,Clinician or APP,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid391,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid392,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid393,Patient,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid394,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid395,ICE app,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid396,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid397,Clinician or APP,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid398,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid399,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid400,Patient,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid401,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid402,ICE app,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid403,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid404,Clinician or APP,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid405,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid406,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid407,Patient,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid408,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid409,ICE app,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid410,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid411,Clinician or APP,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid412,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid413,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid414,Patient,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid415,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid416,ICE app,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid417,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid418,Clinician or APP,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid419,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid420,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid421,Patient,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid422,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid423,ICE app,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid424,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid425,Clinician or APP,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid426,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid427,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid428,Patient,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid429,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid430,ICE app,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid431,Clinician,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid432,Clinician or APP,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid433,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid434,Clinician,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid435,Patient,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid436,Clinician,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid437,ICE app,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid438,Clinician,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid439,Clinician or APP,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid440,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid441,Clinician,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid442,Patient,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid443,Clinician,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid444,ICE app,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid445,Clinician,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid446,Clinician or APP,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid447,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid448,Clinician,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid449,Patient,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid450,Clinician,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid451,ICE app,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid452,Clinician,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid453,Clinician or APP,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid454,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid455,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid456,Patient,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid457,Clinician,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid458,ICE app,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid459,Clinician,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid460,Clinician or APP,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid461,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid462,Clinician,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid463,Patient,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid464,Clinician,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid465,ICE app,ICE-initiated Audible Alarm Inactivation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid466,Clinician,Resume Infusion,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid467,Clinician or APP,Flush Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid468,Clinician,Prime Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid469,Clinician,normal Operation,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid470,Patient,Patient-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid471,Clinician,Clinician-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid472,ICE app,ICE-Dectected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid473,Clinician,Resume Operation After ICE-Dected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid474,Clinician or APP,ICE-initiated Audible Alarm Inactivation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid475,Clinician,Resume Infusion,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid476,Clinician,Flush Pump,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid477,Patient,Prime Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid478,Clinician,normal Operation,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid479,ICE app,Patient-Requested Bolus,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid480,Clinician,Clinician-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid481,Clinician or APP,ICE-Dectected Hazard,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid482,Clinician,Resume Operation After ICE-Dected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid483,Clinician,ICE-initiated Audible Alarm Inactivation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid484,Patient,Resume Infusion,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid485,Clinician,Flush Pump,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid486,ICE app,Prime Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid487,Clinician,normal Operation,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid488,Clinician or APP,Patient-Requested Bolus,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid489,Clinician,Clinician-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid490,Clinician,ICE-Dectected Hazard,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid491,Patient,Resume Operation After ICE-Dected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid492,Clinician,ICE-initiated Audible Alarm Inactivation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid493,ICE app,Resume Infusion,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid494,Clinician,Flush Pump,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid495,Clinician or APP,Prime Pump,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid496,Clinician,normal Operation,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."
+ucid497,Clinician,Patient-Requested Bolus,The PCA pump shall measure drug flow within a tolerance of Fmdf tol = 0.1 ml/hr.
+ucid498,Patient,Clinician-Requested Bolus,"""The PCA pump shall perform a power-on-self-test (POST) to assure system integrity aft"
+ucid499,Clinician,ICE-Dectected Hazard,The PCA pump must be electromagnetically compatible according to IEC 60601-1-2 (2001)
+ucid500,ICE app,Resume Operation After ICE-Dected Hazard,"The basal flow rate, F(basal) is prescribed by a physican and entred into the PCA pump by scanning the presription from the drug container label as it is loaded into the reservoir."

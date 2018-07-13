@@ -1,0 +1,2 @@
+This directory contains the jxl.jar corresponding to the 
+version 2.6.6 of the JExcel API.

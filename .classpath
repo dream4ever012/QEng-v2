@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="JDBC - Drivers/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/jconfig/jconfig.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/hsqldb/hsqldb.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/commons/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/jexcelapi/jxl.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/jconfig/jaxp.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/jconfig/crimson.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/jconfig/jmxri.jar"/>
+	<classpathentry kind="lib" path="FileAccessDependencies/commons/commons-logging.jar"/>
+	<classpathentry kind="lib" path="EMBEDDED DBMS/h2-1.4.192.jar" sourcepath="EMBEDDED DBMS/h2-1.4.192-sources.jar"/>
+	<classpathentry kind="lib" path="UDFStuff/ComputeMetrics.jar"/>
+	<classpathentry kind="lib" path="Data/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="POI/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="POI/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="JVMTrace/tools.jar"/>
+	<classpathentry kind="lib" path="JVMTrace/Jama-1.0.3.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="stdlib"/>
+	<classpathentry kind="lib" path="src/utils/POI/Jampack-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,501 @@
+fltid,fltdesc,flttype
+fltid1,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid2,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid3,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid4,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid5,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid6,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid7,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid8,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid9,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid10,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid11,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid12,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid13,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid14,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid15,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid16,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid17,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid18,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid19,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid20,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid21,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid22,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid23,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid24,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid25,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid26,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid27,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid28,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid29,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid30,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid31,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid32,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid33,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid34,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid35,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid36,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid37,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid38,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid39,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid40,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid41,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid42,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid43,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid44,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid45,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid46,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid47,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid48,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid49,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid50,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid51,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid52,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid53,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid54,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid55,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid56,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid57,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid58,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid59,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid60,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid61,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid62,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid63,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid64,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid65,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid66,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid67,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid68,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid69,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid70,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid71,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid72,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid73,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid74,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid75,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid76,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid77,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid78,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid79,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid80,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid81,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid82,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid83,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid84,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid85,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid86,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid87,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid88,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid89,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid90,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid91,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid92,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid93,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid94,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid95,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid96,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid97,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid98,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid99,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid100,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid101,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid102,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid103,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid104,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid105,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid106,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid107,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid108,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid109,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid110,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid111,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid112,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid113,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid114,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid115,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid116,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid117,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid118,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid119,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid120,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid121,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid122,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid123,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid124,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid125,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid126,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid127,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid128,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid129,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid130,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid131,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid132,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid133,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid134,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid135,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid136,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid137,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid138,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid139,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid140,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid141,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid142,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid143,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid144,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid145,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid146,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid147,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid148,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid149,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid150,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid151,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid152,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid153,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid154,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid155,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid156,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid157,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid158,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid159,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid160,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid161,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid162,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid163,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid164,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid165,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid166,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid167,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid168,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid169,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid170,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid171,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid172,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid173,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid174,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid175,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid176,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid177,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid178,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid179,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid180,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid181,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid182,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid183,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid184,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid185,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid186,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid187,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid188,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid189,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid190,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid191,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid192,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid193,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid194,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid195,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid196,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid197,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid198,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid199,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid200,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid201,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid202,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid203,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid204,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid205,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid206,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid207,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid208,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid209,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid210,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid211,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid212,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid213,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid214,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid215,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid216,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid217,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid218,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid219,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid220,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid221,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid222,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid223,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid224,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid225,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid226,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid227,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid228,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid229,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid230,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid231,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid232,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid233,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid234,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid235,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid236,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid237,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid238,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid239,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid240,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid241,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid242,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid243,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid244,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid245,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid246,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid247,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid248,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid249,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid250,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid251,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid252,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid253,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid254,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid255,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid256,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid257,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid258,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid259,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid260,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid261,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid262,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid263,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid264,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid265,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid266,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid267,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid268,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid269,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid270,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid271,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid272,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid273,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid274,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid275,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid276,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid277,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid278,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid279,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid280,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid281,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid282,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid283,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid284,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid285,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid286,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid287,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid288,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid289,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid290,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid291,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid292,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid293,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid294,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid295,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid296,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid297,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid298,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid299,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid300,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid301,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid302,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid303,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid304,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid305,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid306,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid307,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid308,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid309,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid310,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid311,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid312,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid313,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid314,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid315,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid316,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid317,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid318,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid319,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid320,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid321,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid322,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid323,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid324,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid325,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid326,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid327,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid328,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid329,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid330,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid331,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid332,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid333,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid334,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid335,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid336,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid337,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid338,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid339,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid340,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid341,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid342,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid343,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid344,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid345,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid346,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid347,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid348,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid349,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid350,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid351,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid352,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid353,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid354,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid355,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid356,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid357,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid358,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid359,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid360,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid361,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid362,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid363,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid364,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid365,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid366,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid367,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid368,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid369,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid370,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid371,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid372,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid373,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid374,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid375,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid376,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid377,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid378,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid379,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid380,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid381,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid382,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid383,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid384,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid385,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid386,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid387,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid388,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid389,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid390,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid391,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid392,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid393,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid394,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid395,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid396,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid397,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid398,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid399,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid400,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid401,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid402,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid403,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid404,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid405,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid406,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid407,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid408,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid409,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid410,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid411,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid412,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid413,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid414,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid415,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid416,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid417,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid418,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid419,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid420,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid421,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid422,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid423,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid424,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid425,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid426,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid427,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid428,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid429,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid430,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid431,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid432,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid433,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid434,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid435,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid436,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid437,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid438,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid439,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid440,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid441,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid442,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid443,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid444,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid445,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid446,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid447,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid448,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid449,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid450,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid451,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid452,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid453,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid454,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid455,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid456,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid457,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid458,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid459,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid460,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid461,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid462,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid463,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid464,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid465,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid466,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid467,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid468,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid469,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid470,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid471,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid472,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid473,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid474,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid475,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid476,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults
+fltid477,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Coding faults
+fltid478,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Data problems
+fltid479,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Intergration faults
+fltid480,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Other faults
+fltid481,The programmer was not careful and consumed more memory than the hardware has available.,Requirements faults
+fltid482,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Design faults
+fltid483,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Coding faults
+fltid484,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Data problems
+fltid485,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Intergration faults
+fltid486,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Other faults
+fltid487,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Requirements faults
+fltid488,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Design faults
+fltid489,The programmer was not careful and consumed more memory than the hardware has available.,Coding faults
+fltid490,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Data problems
+fltid491,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Intergration faults
+fltid492,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Other faults
+fltid493,"Software faults are most often caused by design faults. Design faults occur when a designer, (in this case a programmer,) either misunderstands a specification or simply makes a mistake.",Requirements faults
+fltid494,"Software fault becomes a software failure only when the exact computation conditions are met, and the faulty portion of the code is executed on the CPU.",Design faults
+fltid495,"As various components in the system interact, failure of one component might introduce one or more faults in another. how’s this cyclic behavior.",Coding faults
+fltid496,"During operation, maintain strict controls on the kind and quality of software that is added to the system, including updates to existing programs.",Data problems
+fltid497,The programmer was not careful and consumed more memory than the hardware has available.,Intergration faults
+fltid498,"The programmer attempts to point to a portion of memory that is not in its ""space"".",Other faults
+fltid499,The most common causes of software failures are improper software configuration and incompatibilities between software products.,Requirements faults
+fltid500,Software fault tolerance is the ability for software to detect and recover from a fault that is happening or has already happened in either the software or hardware in the system.,Design faults

@@ -1,0 +1,7 @@
+EXCEPTIONCASEID,PRIMARYACTOR,TITLE,DESCRIPTION
+EC1,Patient,Bolus request too soon,Bolus request denied because minimum time between boluses had not elapsed.
+EC2,Clinician,Downstream Occlusion,blockage between pump and patient
+EC3,Patient or Clinician,Upstream Occlusion,blockage between reservoir and pump
+EC4,ICE app,Air-in-line Embolism,bubble detection
+EC5,Patient,Maximum Safe Dose,dose reaches maximum allowed by drug library
+EC6,Clinician,Clinician Authentication Failure,clinician not authorized to operate pump

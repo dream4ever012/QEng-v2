@@ -1,0 +1,32 @@
+Changes between version Y7 and Y8 (by Csongor Nyulas):
+
+- multiple connection issues are solved (driver tries to connect 
+  only to valid URLs; initializing driver with configuration files 
+  does not throw exception anymore; no multiple registreation of 
+  the xlDriver and its back-end drivers; the usage of the 
+  xlEngineDriver - a wrapping driver for the back-end drivers 
+  with no particular functionality - is eliminated etc.)
+
+- HSQLDB back-end is properly shutdown at time of closing the connection
+
+- MySQL back-end implementation is changed so that it not uses 
+  different schemas for each Excel file, but all the Excel sheets 
+  are tables in the same schema (provided by the JDBC URL). This also 
+  eliminates problems due to access rights restrictions and final cleanup.
+
+- problems with time recognision are eliminated (as far as JExcelApi is able 
+  to deal with them xlSql driver will be able to deal with them too)
+
+- upgraded to use JExcel API 2.6.6 (especially bacause of some bugs 
+  in the recognision of TIME column types with the use of isTime() function)
+
+- updated additional jar files
+    - jxl.jar (new version is 2.6.6)
+    - MySQL JDBC driver (version 5.1.6 instead of 3.0.10)
+    - jconfig.jar (new version is 2.8.5)
+
+- updates in the "bin" directory: TestXlsql.java, xlsqlenv.bat, build.xml
+
+Note: the crimson.jar, jaxp.jar and jmxri.jar files in the "lib/jconfig"
+      directory seem to be not used. Adding them to the CLASSPATH is not 
+      necessary
